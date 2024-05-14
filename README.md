@@ -1,6 +1,6 @@
-# Esse é o repositorio de arquivos da materia de jogos digitais
+# Este é o repositorio de arquivos da materia de jogos digitais
 
-# coisas a se considerar.
+# Coisas a se considerar.
 
 ## Utilizar o unity 2022.3.28f1.
 
