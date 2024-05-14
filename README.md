@@ -1,4 +1,4 @@
-# Este é o repositorio de arquivos da materia de jogos digitais
+# Este é o repositorio de arquivos da matéria de jogos digitais
 
 # Coisas a se considerar.
 
